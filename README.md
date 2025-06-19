@@ -3,7 +3,7 @@ SalesBoost
 
 ## Repository Outline
 
-```bash
+```
 p2-final-project-ftds-027-hck-group-002/
 ├── Amazon_sales.csv
 ├── Cleaning_DAG.py
