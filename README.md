@@ -95,7 +95,7 @@ For the clustering task, two models were evaluated: K-Prototypes and Hierarchica
 
 ## Team Members
 
-1. Avisa Rahma Benedicta(https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)
+1. [Avisa Rahma Benedicta](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)
 
 2. Muhammad Farhan Herdiyanto
 
