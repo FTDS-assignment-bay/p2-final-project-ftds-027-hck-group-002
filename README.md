@@ -15,14 +15,14 @@ Performed Exploratory Data Analysis before and after clustering, visualized usin
 
 ## Data
 
-Data Source : https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
+**Data Source :** https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 The dataset used is "Amazon Sale Report.csv".
 
-Number of columns : 24
+**Number of columns** : 24
 
-Number of rows : 128.975
+**Number of rows :** 128.975
 
-Data raw (before cleaning) :
+**Data raw (before cleaning) :**
 
 1. index
 2. Order ID
@@ -49,9 +49,9 @@ Data raw (before cleaning) :
 23. fulfilled-by
 24. Unnamed: 22
 
-Data used (after cleaning):
+**Data used (after cleaning) :**
 
-Number of Columns : 13
+**Number of Columns :** 13
 1. date
 2. status
 3. fulfilment
@@ -73,10 +73,10 @@ For the clustering task, two models were evaluated: K-Prototypes and Hierarchica
 
 
 ## Stacks
-Programming language:
+**Programming language:**
 1. Python
 
-Libraries:
+**Libraries:**
 1. Matplotlib
 2. Numpy
 3. Pandas
@@ -85,12 +85,24 @@ Libraries:
 6. Seaborn
 7. Statsmodels
 
-Tools:
+**Tools:**
 1. Airflow
 2. Docker
 3. Hugging Face
 4. Streamlit
 5. Tableau
+
+
+## Team Members
+
+1. Avisa Rahma Benedicta(https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)
+
+2. Muhammad Farhan Herdiyanto
+
+3. Neila Ismahunnisa
+
+4. Sesilia Virdha Kezia
+
 
 ## Repository Outline
 
@@ -143,11 +155,11 @@ p2-final-project-ftds-027-hck-group-002/
 ```
 
 ## Reference
-Dataset:
+**Dataset:**
 [E-Commerce Sales Dataset] (https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
 
-Dashboard Tableau: 
+**Dashboard Tableau:**
 https://public.tableau.com/app/profile/muhammad.farhan.hendriyanto/viz/finalproject_17503214545810/DashboardSalesBoostAfterClustering?publish=yes
 
-Deployment Hugging Face:
+**Deployment Hugging Face:**
 https://huggingface.co/spaces/farhanpaul21/Final_Project
