@@ -1,39 +1,5 @@
 # SalesBoost
 
-## Repository Outline
-
-```
-p2-final-project-ftds-027-hck-group-002/
-├── Amazon_sales.csv
-├── README.md
-├── exploratory_data_analysis.ipynb
-├── customer_clustering/
-│   ├── .gitignore
-│   └── clustering.ipynb
-├── main_model_timeseries/
-│   ├── data_test.pkl
-│   ├── forecasting_model.ipynb
-│   └── inference.ipynb
-├── other_model_timeseries/
-│   ├── ar_sar_holt.ipynb
-│   ├── prophet.ipynb
-│   └── LSTM.ipynb
-├── Airflow_FinalProject_Group2/
-│   ├── dags/
-│   ├── data/
-│   ├── .env
-│   ├── .gitignore
-│   ├── airflow_ES.yaml
-│   └── LSTM.ipynb
-└── Deployment_FinalProject_Group2
-    ├── dags/
-    ├── data/
-    ├── .env
-    ├── .gitignore
-    ├── airflow_ES.yaml
-    └── LSTM.ipynb
-```
-
 ## Problem Background
 
 1. The company is experiencing a downward trend in sales.
@@ -126,6 +92,55 @@ Tools:
 4. Streamlit
 5. Tableau
 
+## Repository Outline
+
+```
+p2-final-project-ftds-027-hck-group-002/
+├── Amazon_sales.csv
+├── README.md
+├── exploratory_data_analysis.ipynb
+├── customer_clustering/
+│   ├── .gitignore
+│   └── clustering.ipynb
+│
+├── other_model_clustering/
+│   └── Hierarchical.ipynb
+│
+├── main_model_timeseries/
+│   ├── data_test.pkl
+│   ├── forecasting_model.ipynb
+│   └── inference.ipynb
+│
+├── other_model_timeseries/
+│   ├── ar_sar_holt.ipynb
+│   ├── prophet.ipynb
+│   └── LSTM.ipynb
+│ 
+├── Airflow_FinalProject_Group2/
+│   ├── dags/
+│   │   └── Group2_Automation_DAG.py
+│   ├── data/
+│   │   ├── Amazon Sale Report.csv
+│   │   ├── amazon_sample_finpro.csv
+│   │   └── data_for_modelling.csv
+│   ├── .env
+│   ├── .gitignore
+│   └── airflow_ES.yaml
+│   
+└── Deployment_FinalProject_Group2
+    ├── Amazon.png
+    ├── App_finpro.py
+    ├── data_for_modelling.csv
+    ├── data_test_finpro_2.pkl
+    ├── EDA_finpro.py
+    ├── Introduction.py
+    ├── model_finpro_2.pkl
+    ├── Predict_finpro.py
+    ├── SalesBoost Clustering.png
+    ├── SalesBoost Overview Dashboard.png
+    └── Team.jpg
+
+```
 
 ## Reference
 Dataset:
