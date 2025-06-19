@@ -4,11 +4,8 @@ SalesBoost
 ## Repository Outline
 
 p2-final-project-ftds-027-hck-group-002/
-│
 ├── customer_clustering/
-│   │
 │   ├── .gitignore
-│   │
 │   └──  clustering.ipynb
 │
 ├── main_model_timeseries/
