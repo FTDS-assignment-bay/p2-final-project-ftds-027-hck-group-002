@@ -4,24 +4,22 @@ SalesBoost
 ## Repository Outline
 
 p2-final-project-ftds-027-hck-group-002/
+├── Amazon_sales.csv
+├── Cleaning_DAG.py
+├── README.md
+├── exploratory_data_analysis.ipynb
 ├── customer_clustering/
 │   ├── .gitignore
-│   └──  clustering.ipynb
-│
+│   └── clustering.ipynb
 ├── main_model_timeseries/
 │   ├── data_test.pkl
 │   ├── forecasting_model.ipynb
 │   └── inference.ipynb
-│
 ├── other_model_timeseries/
 │   ├── ar_sar_holt.ipynb
 │   ├── prophet.ipynb
 │   └── LSTM.ipynb
-│
-├── Amazon_sales.csv
-├── Cleaning_DAG.py
-├── README.md
-└── exploratory_data_analysis.ipynb
+
 
 
 ## Problem Background
