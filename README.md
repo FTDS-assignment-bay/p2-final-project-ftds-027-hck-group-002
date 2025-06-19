@@ -97,11 +97,11 @@ For the clustering task, two models were evaluated: K-Prototypes and Hierarchica
 
 1. [Avisa Rahma Benedicta](https://www.linkedin.com/in/avisa-rahma-benedicta-7b354a200/)
 
-2. Muhammad Farhan Herdiyanto
+2. [Muhammad Farhan Herdiyanto](https://www.linkedin.com/in/muhammad-farhan-hendriyanto-48a0a320b/)
 
-3. Neila Ismahunnisa
+3. [Neila Ismahunnisa](https://www.linkedin.com/in/neila-ismahunnisa/)
 
-4. Sesilia Virdha Kezia
+4. [Sesilia Virdha Kezia](https://www.linkedin.com/in/sesilia-virdha-kezia-5922a736b/)
 
 
 ## Repository Outline
