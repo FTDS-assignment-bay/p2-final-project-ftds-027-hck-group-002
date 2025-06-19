@@ -1,5 +1,4 @@
-# Judul Project
-SalesBoost
+# SalesBoost
 
 ## Repository Outline
 
