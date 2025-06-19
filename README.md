@@ -5,7 +5,6 @@
 ```
 p2-final-project-ftds-027-hck-group-002/
 ├── Amazon_sales.csv
-├── Cleaning_DAG.py
 ├── README.md
 ├── exploratory_data_analysis.ipynb
 ├── customer_clustering/
@@ -19,6 +18,20 @@ p2-final-project-ftds-027-hck-group-002/
 │   ├── ar_sar_holt.ipynb
 │   ├── prophet.ipynb
 │   └── LSTM.ipynb
+├── Airflow_FinalProject_Group2/
+│   ├── dags/
+│   ├── data/
+│   ├── .env
+│   ├── .gitignore
+│   ├── airflow_ES.yaml
+│   └── LSTM.ipynb
+└── Deployment_FinalProject_Group2
+    ├── dags/
+    ├── data/
+    ├── .env
+    ├── .gitignore
+    ├── airflow_ES.yaml
+    └── LSTM.ipynb
 ```
 
 ## Problem Background
