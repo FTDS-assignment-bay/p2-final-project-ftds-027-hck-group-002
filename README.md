@@ -90,7 +90,7 @@ Number of Columns : 13
 
 ## Method
 This project applies unsupervised learning models, specifically time series forecasting and clustering. For the time series analysis, six models were evaluated: ARIMA, SARIMA, Holt-Winters, LSTM, Prophet, and SARIMAX. Among them, SARIMAX was selected as the best-performing model.
-For the clustering task, two models were tested: K-Prototype and Gower distance-based clustering, with K-Prototype chosen as the most suitable model.
+For the clustering task, two models were evaluated: K-Prototypes and Hierarchical Clustering using Gower Distance. K-Prototypes was selected as the most suitable model.
 
 
 ## Stacks
