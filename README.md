@@ -3,6 +3,7 @@ SalesBoost
 
 ## Repository Outline
 
+```bash
 p2-final-project-ftds-027-hck-group-002/
 ├── Amazon_sales.csv
 ├── Cleaning_DAG.py
@@ -19,8 +20,7 @@ p2-final-project-ftds-027-hck-group-002/
 │   ├── ar_sar_holt.ipynb
 │   ├── prophet.ipynb
 │   └── LSTM.ipynb
-
-
+```
 
 ## Problem Background
 
